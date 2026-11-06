@@ -1,0 +1,17 @@
+{
+  "name": "integracaocontinua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^10.14.0",
+    "jest": "^30.5.2"
+  }
+}
